@@ -10,5 +10,5 @@ redirect_URI : 回调地址
 环境配置参考：
 https://blog.csdn.net/qq_27231343/article/details/50518711
 
-官方API：
+新浪微博官方API：
 https://github.com/sunxiaowei2014/weibo4j-oauth2-beta3.1.1/
