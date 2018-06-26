@@ -1,7 +1,7 @@
 package examples.search;
 
 import weibo4j.Search;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.SchoolSearch;
 import weibo4j.model.WeiboException;
 

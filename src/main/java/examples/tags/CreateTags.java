@@ -1,7 +1,7 @@
 package examples.tags;
 
 import weibo4j.Tags;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.WeiboException;
 import weibo4j.org.json.JSONArray;
 

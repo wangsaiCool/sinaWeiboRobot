@@ -1,7 +1,7 @@
 package examples.friendships;
 
 import weibo4j.Friendships;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.User;
 import weibo4j.model.UserWapper;
 import weibo4j.model.WeiboException;

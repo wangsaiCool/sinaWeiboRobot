@@ -1,7 +1,7 @@
 package examples.favorites;
 
 import weibo4j.Favorite;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.WeiboException;
 
 public class DestroyFavoritesBatch {

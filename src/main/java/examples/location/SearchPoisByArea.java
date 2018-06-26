@@ -1,7 +1,7 @@
 package examples.location;
 
 import weibo4j.Location;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.Poisition;
 import weibo4j.model.WeiboException;
 

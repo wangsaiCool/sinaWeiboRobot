@@ -1,7 +1,7 @@
 package examples.account;
 
 import weibo4j.Account;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.School;
 import weibo4j.model.WeiboException;
 

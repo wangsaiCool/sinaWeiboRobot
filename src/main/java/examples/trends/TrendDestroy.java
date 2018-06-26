@@ -1,7 +1,7 @@
 package examples.trends;
 
 import weibo4j.Trend;
-import weibo4j.examples.oauth2.Log;
+import examples.oauth2.Log;
 import weibo4j.model.WeiboException;
 import weibo4j.org.json.JSONObject;
 
