@@ -7,6 +7,9 @@
 ----client_SERCRET ：app_secret  
 ----redirect_URI : 回调地址
 
+# 缺点
+--新浪未开放转发微博API，所以现在无法转发微博.
+
 # 环境配置参考：  
 https://blog.csdn.net/qq_27231343/article/details/50518711
 
